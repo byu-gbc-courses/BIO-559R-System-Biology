@@ -193,7 +193,7 @@ We will also use R for some statistical analysis and for creating publication-qu
     *   Seurat is a popular R package for single-cell analysis. We can install it from the `conda-forge` channel as well. We will also install `ggplot2` for plotting.
 
         ```bash
-        conda install -c conda-forge r-seurat r-ggplot2
+        conda install -c conda-forge r-seurat r-ggplot2 r-dplyr
         ```
 
 ### 3. Verifying the Installation
