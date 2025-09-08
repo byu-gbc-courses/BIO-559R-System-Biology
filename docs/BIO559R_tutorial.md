@@ -1,6 +1,6 @@
 # BIO559R: Single-Cell and Spatial Transcriptomics Analysis Tutorial
 
-**Author:** Manus AI (on behalf of Tommy W. Terooatea)
+**Author:** Tommy W. Terooatea
 
 **Course:** BIO559R - Introduction to Systems Biology
 
